@@ -17,42 +17,42 @@ function get_list_view_html($product_id, $product) {
 $products = array();
 $products[101] = array(
 	"name" => "Rosemarried with Children",
-	"img" => "img/scrubs/rosemary.jpg",
+	"img" => "img/rosemary.jpg",
 	"price" => 12.95,
 );
 $products[102] = array(
 	"name" => "Orange is the New Vanilla",
-    "img" => "img/scrubs/orange.jpg",
+    "img" => "img/orange.jpg",
     "price" => 10.95,
 );
 $products[103] = array(
     "name" => "Lavenduh! I want some Basil",
-    "img" => "img/scrubs/lavender.jpg",
+    "img" => "img/lavender.jpg",
     "price" => 12.95,
 );
 $products[104] = array(
     "name" => "Oh Wise Sage",
-    "img" => "img/scrubs/sage.jpg",
+    "img" => "img/sage.jpg",
     "price" => 10.95,
 );
 $products[105] = array(
     "name" => "Lemon is the balm",
-    "img" => "img/scrubs/lemon.jpg",
+    "img" => "img/lemon.jpg",
     "price" => 10.95,
 );
 $products[106] = array(
     "name" => "It's Grrrrrapefruit",
-    "img" => "img/scrubs/grapefruit.jpg",
+    "img" => "img/grapefruit.jpg",
     "price" => 12.95,
 );
 $products[107] = array(
     "name" => "Chocolate Mint",
-    "img" => "img/scrubs/chocolate.jpg",
+    "img" => "img/chocolate.jpg",
     "price" => 10.95,
 );
 $products[108] = array(
     "name" => "Toasted Almond",
-    "img" => "img/scrubs/almond",
+    "img" => "img/almond",
     "price" => 10.95,
 );
 
