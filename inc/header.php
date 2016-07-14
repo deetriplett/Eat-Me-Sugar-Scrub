@@ -10,7 +10,12 @@
 
 		<div class="wrapper">
 
-			<h1 class="branding-title"><a href="img/branding-title.png">Eat Me Sugar</a></h1>
+			<h1>
+				<span class="branding-title">
+					<a href="index.php"><img src ="img/branding-title.png">
+					</a>
+				</span>
+			</h1>
 
 			<ul class="nav">
 				<li class="scrubs <?php if ($section == "scrubs") { echo "on"; } ?>"><a href="scrubs.php">Scrubs</a></li>
