@@ -2,21 +2,17 @@
 $pageTitle = "Eat Me Sugar Scrubs";
 $section = "home";
 include('inc/header.php'); ?>
-		<div class="section banner">
+		<div class="section banner" id="content">
 			<div class="wrapper">
-
 						  <h2>So good you'll want to eat it, but you probably shouldn't. </h2>
-							<p>Sugar is not so good for your waist line, but it's terrifc for your skin! Your body deserves the best cleansing and moisturizing products possible - and Eat Me Sugar Scrub's handmade exfoliating body scrubs, made with sugar and salt, deliver
-	              the ultimate cleanse while restoring moisture and providing a deep cleanse that other soaps can't.</p>
-	            <p> Eat Me Sugar Scrub's exfoliating body scrubs unique formulation provides a one of a kind clean, leaving your skin nourished without excess oil or dryness.</p>
+							<p>Sugar is not so good for your waist line, but it's terrific for your skin! Your body deserves the best cleansing and moisturizing products possible - and Eat Me Sugar's
+								handmade exfoliating body scrubs deliver the ultimate cleanse while restoring moisture and providing a deep cleanse that other soaps can't.</p>
+	            <p> With an unique formulation that provides a one of a kind clean, Eat Me Sugar scrubs leave your skin nourished without excess oil or dryness.</p>
 	          </a>
-							<div class="button">
-								<a href="scrubs.php"></a>
-							</div>
 			</div>
 		</div>
 
-		<div class="section scrubs latest">
+		<div class="section scrubs">
 			<div class="wrapper">
 				<h2>Indulge yourself. Pick a flavor. </h2>
 
