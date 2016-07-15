@@ -3,8 +3,8 @@ $pageTitle = "Full Inventory of Sugar Scrub";
 $section = "scrubs";
 include('inc/header.php'); ?>
 
-		<div class="section Scrubs page">
-
+<div class="container-fluid">
+		<div class="section scrubs page">
 			<div class="wrapper">
 
 				<h1>Welcome to the Pantry</h1>
@@ -19,5 +19,5 @@ include('inc/header.php'); ?>
 			</div>
 
 		</div>
-
+</div>
 <?php include('inc/footer.php') ?>
