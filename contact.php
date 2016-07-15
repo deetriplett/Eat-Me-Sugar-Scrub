@@ -55,10 +55,9 @@ $pageTitle = "Contact Eat Me Sugar";
 $section = "contact";
 include('inc/header.php'); ?>
 
+<div class="container-fluid">
     <div class="section page">
-
-        <div class="wrapper">
-
+      
             <h1>Contact</h1>
 
             <?php if (isset($_GET["status"]) AND $_GET["status"] == "thanks") { ?>
@@ -111,7 +110,5 @@ include('inc/header.php'); ?>
             <?php } ?>
 
         </div>
-
-    </div>
-
+</div>
 <?php include('inc/footer.php') ?>
