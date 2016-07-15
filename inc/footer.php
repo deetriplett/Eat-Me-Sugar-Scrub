@@ -1,5 +1,5 @@
 	</div>
-
+<div class="container-fluid">
 	<div class="footer">
 
 		<div class="wrapper">
@@ -12,7 +12,7 @@
 			<p>&copy;<?php echo date('Y'); ?> Eat Me Sugar</p>
 
 		</div>
-
+</div>
 	</div>
 
 </body>
