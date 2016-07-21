@@ -36,6 +36,6 @@ $section = "home";
 	</div>
 </div>
 
-<div class="container-fluid">
+
 <?php include('inc/footer.php') ?>
-</div>
+
