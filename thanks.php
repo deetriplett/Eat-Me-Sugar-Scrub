@@ -11,4 +11,6 @@ $section = null;
    </div><!--End section-->
 </div><!--End container-->
 
-<?php include("inc/footer.php");?>
+<div class="container-fluid">
+<?php include('inc/footer.php') ?>
+</div>
