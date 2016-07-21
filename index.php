@@ -20,22 +20,14 @@ include('inc/header.php'); ?>
 				<div class="container-fluid text-center">
 				<ul class="products">
 					<?php
-
-						$total_products = count($products);
-						$position = 0;
-						$list_view_html = "";
-						foreach($products as $product_id => $product) {
-							$position = $position + 1;
-							if ($total_products - $position < 4) {
-								$list_view_html = get_list_view_html($product_id,$product) . $list_view_html;
-							}
+						foreach(array_reverse($recent) as $product) {
+					         include(ROOT_PATH . "inc/partial_product_list_view_html.php");
 						}
-						echo $list_view_html;
 					?>
 				</ul>
-</div>
-			</div>
-</div>
+          </div>
+			   </div>
+      </div>
 		</div>
 
 <div class="container-fluid">
