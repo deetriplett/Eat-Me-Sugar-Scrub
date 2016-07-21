@@ -17,4 +17,6 @@ include('inc/header.php'); ?>
 	</div><!--End wrapper-->
 	</div><!--End section-->
 </div><!--End container-->
+<div class="container-fluid">
 <?php include('inc/footer.php') ?>
+</div>
