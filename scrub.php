@@ -40,4 +40,6 @@ $pageTitle = $product["name"];
 	</div><!--End section-->
 </div>
 
-<?php include("inc/footer.php"); ?>
+<div class="container-fluid">
+<?php include('inc/footer.php') ?>
+</div>
