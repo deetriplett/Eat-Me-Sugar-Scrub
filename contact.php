@@ -6,7 +6,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = trim(filter_input(INPUT_POST,"message",FILTER_SANITIZE_SPECIAL_CHARS));
 
     if ($name == "" || $email == "" || $message == "") {
-        $error_message = "Please fill in the required field: Name, Email, Message";
+        $error_messaage = "Please fill in the required field: Name, Email, Message";
     }
 
     if (!isset($error_message) && $_POST["address"] != "") {
@@ -111,6 +111,4 @@ include('inc/header.php');
 
         </div>
 </div>
-<div class="container-fluid">
 <?php include('inc/footer.php') ?>
-</div>
