@@ -20,6 +20,7 @@
  				<ul class="nav navbar-nav navbar-right">
 				<li class="scrubs <?php if ($section == "scrubs") { echo "on"; } ?>"><a href="scrubs.php">Scrubs</a></li>
 				<li class="contact <?php if ($section == "contact") { echo "on"; } ?>"><a href="contact.php">Contact</a></li>
+				<li class="cart <?php if ($section == "cart") { echo "on"; } ?>"><a href="cart.php">Cart</a></li>
 
 			</ul>
 		</div>
