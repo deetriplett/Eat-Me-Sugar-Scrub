@@ -4,11 +4,9 @@ $section = "home";
 include('inc/header.php'); ?>
 <div class="container-fluid jumbotron text-center">
   <div id="content">
-						  <h1>So good you'll want to eat it, but you probably shouldn't. </h1>
-
-							<p>Sugar is not so good for your waist line, but it's terrific for your skin! Your body deserves the best cleansing and moisturizing products possible - and Eat Me Sugar's
-								handmade exfoliating body scrubs deliver the ultimate cleanse while restoring moisture and providing a deep cleanse that other soaps can't.</p>
-	            <p> With an unique formulation that provides a one of a kind clean, Eat Me Sugar scrubs leave your skin nourished without excess oil or dryness.</p>
+    <h1>So good you'll want to eat it, but you probably shouldn't. </h1>
+      <p>Sugar is not so good for your waist line, but it's terrific for your skin! Your body deserves the best cleansing and moisturizing products possible - and Eat Me Sugar's handmade exfoliating body scrubs deliver the ultimate cleanse while restoring moisture and providing a deep cleanse that other soaps can't.</p>
+	    <p> With an unique formulation that provides a one of a kind clean, Eat Me Sugar scrubs leave your skin nourished without excess oil or dryness.</p>
 		</div>
 	</div>
 <div class="container-fluid text-center">
